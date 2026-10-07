@@ -5,8 +5,8 @@ def xor_ofuscar(texto, clave=0x55):
     return ", ".join(resultado)
 
 #aca reemplacen sus datos de tlgrm
-token = "8545309765:AAHbs5t749K6RPYIQgreBJdIm49BN1xSZHQ"
-chat_id = "6129038704"
+token = "asdas"
+chat_id = "12345"
 
 print("Token ofuscado:")
 print(xor_ofuscar(token))
